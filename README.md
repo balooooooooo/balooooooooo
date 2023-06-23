@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vojtěch Balek</h1>
+<h1 align="center">Hi 👋, I'm Vojtěch!</h1>
 <h3 align="center">Data Analytics student at University of Business and Economics in Prague.</h3>
 
 - 🔭 I’m currently working as a **software developer and automation specialist.**
