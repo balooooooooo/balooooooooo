@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vojtěch Balek</h1>
-<h3 align="center">A Data Analytics student at University of Business and Economics in Prague.</h3>
+<h3 align="center">Data Analytics student at University of Business and Economics in Prague.</h3>
 
 - 🔭 I’m currently working as a **software developer and automation specialist.**
 
@@ -7,7 +7,7 @@
 
 - 🥰 I'm passionate about **NLP and text analysis.**
 
-- 👉My current project **analysis of Kanye West's lyrics.**
+- 👉My current project **analysis of Kanye West's rap lyrics using NLP.**
 
 - 📫 How to reach me **vojta.balek@gmail.com**
 
