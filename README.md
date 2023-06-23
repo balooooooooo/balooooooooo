@@ -7,7 +7,7 @@
 
 - 🥰 I'm passionate about **NLP and text analysis.**
 
-- 👉My current project **analysis of Kanye West's rap lyrics using NLP.**
+- 👉 My current project **analysis of Kanye West's rap lyrics using NLP.**
 
 - 📫 How to reach me **vojta.balek@gmail.com**
 
