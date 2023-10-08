@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vojtěch!</h1>
 <h3 align="center">Data Analytics student at University of Business and Economics in Prague.</h3>
 
-- 🔭 I’m currently working as a **software developer and automation specialist.**
+- 🔭 I’m currently working as a **software developer and data analyst in NLP chapter in automotive.**
 
 - 🌱 I’m currently learning **more about data analysis and statistics.**
 
