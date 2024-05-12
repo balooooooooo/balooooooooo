@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **more about data analysis and statistics.**
 
-- 🥰 I'm passionate about **NLP and text analysis.**
+- 🥰 I'm passionate about **NLP, machine learning and everything Python!.**
 
-- 👉 My current project **analysis of Kanye West's rap lyrics using NLP.**
+- 👉 My current project **Bachelor thesis - utilizition of Large Language models for generating high-level features for documents to be used in text classification.**
 
 - 📫 How to reach me **vojta.balek@gmail.com**
 
